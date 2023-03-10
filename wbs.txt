@@ -4,11 +4,20 @@ Website development
 |Website design
 |Website and server deployment
 Website testing
-|Date Protection
+|Data Protection
 |User information safety
 |muti-concurrent users handling
-|Possible memory leak on server side
+|Possible memory leak on the server side
 Website Marketing
 |
 Website Management and Maintenance
 |
+
+
+
+Students and school registration
+users communication
+file upload/download
+Calendar displaying
+Web Real-Time Communication
+(Used for Expert Talks and workshop)
